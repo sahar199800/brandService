@@ -1,0 +1,18 @@
+.header_logo {
+    color: #313131;
+    font-family: Poppins;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -1.5px;
+}
+
+.header_items {
+    color: #313131;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
